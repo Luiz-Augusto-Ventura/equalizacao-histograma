@@ -1,0 +1,27 @@
+C:\Users\luiza\Desktop\EqualizacaoImagens\Principal\bin\Debug\Principal.exe.config
+C:\Users\luiza\Desktop\EqualizacaoImagens\Principal\bin\Debug\Principal.exe
+C:\Users\luiza\Desktop\EqualizacaoImagens\Principal\bin\Debug\Principal.pdb
+C:\Users\luiza\Desktop\EqualizacaoImagens\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\luiza\Desktop\EqualizacaoImagens\Principal\obj\Debug\Principal.Form1.resources
+C:\Users\luiza\Desktop\EqualizacaoImagens\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\luiza\Desktop\EqualizacaoImagens\Principal\obj\Debug\Principal.csproj.GenerateResource.Cache
+C:\Users\luiza\Desktop\EqualizacaoImagens\Principal\obj\Debug\Principal.exe
+C:\Users\luiza\Desktop\EqualizacaoImagens\Principal\obj\Debug\Principal.pdb
+C:\Users\luiza\Desktop\Processamento de Imagens\EqualizacaoImagens\Principal\bin\Debug\Principal.exe.config
+C:\Users\luiza\Desktop\Processamento de Imagens\EqualizacaoImagens\Principal\obj\Debug\Principal.exe
+C:\Users\luiza\Desktop\Processamento de Imagens\EqualizacaoImagens\Principal\obj\Debug\Principal.pdb
+C:\Users\luiza\Desktop\Processamento de Imagens\EqualizacaoImagens\Principal\bin\Debug\Principal.exe
+C:\Users\luiza\Desktop\Processamento de Imagens\EqualizacaoImagens\Principal\bin\Debug\Principal.pdb
+C:\Users\luiza\Desktop\Processamento de Imagens\EqualizacaoImagens\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\luiza\Desktop\Processamento de Imagens\EqualizacaoImagens\Principal\obj\Debug\Principal.Form1.resources
+C:\Users\luiza\Desktop\Processamento de Imagens\EqualizacaoImagens\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\luiza\Desktop\Processamento de Imagens\EqualizacaoImagens\Principal\obj\Debug\Principal.csproj.GenerateResource.Cache
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\EqualizacaoImagens\Principal\bin\Debug\Principal.exe.config
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\EqualizacaoImagens\Principal\obj\Debug\Principal.exe
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\EqualizacaoImagens\Principal\obj\Debug\Principal.pdb
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\EqualizacaoImagens\Principal\bin\Debug\Principal.exe
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\EqualizacaoImagens\Principal\bin\Debug\Principal.pdb
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\EqualizacaoImagens\Principal\obj\Debug\Principal.csprojResolveAssemblyReference.cache
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\EqualizacaoImagens\Principal\obj\Debug\Principal.Form1.resources
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\EqualizacaoImagens\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\luiza\Desktop\Computação\Sexto Período\Processamento de Imagens\EqualizacaoImagens\Principal\obj\Debug\Principal.csproj.GenerateResource.Cache
