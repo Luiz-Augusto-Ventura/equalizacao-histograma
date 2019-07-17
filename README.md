@@ -6,8 +6,9 @@
   
   Como é exibido nas imagens abaixo, na parte superior podemos ver a imagem original e, na parte inferior, a imagem resultante do processo de equalização de histograma. Imediatamente após a conculsão do processo de equalização, podem ser vizualidos também os gráficos referentes aos histogramas da imagem original e da imagem equalizada.
 
+##### Outros desenvolvedores: Willian Mariano
 
-Capturas de tela:
+#### Capturas de tela:
 
 ![Captura equalização Preto e Branco](screenshots/captura_pb.png)
 
